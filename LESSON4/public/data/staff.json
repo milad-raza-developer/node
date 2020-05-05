@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "Milad Raza",
+        "age" : 16,
+        "company" : "Mr Solution's",
+        "language" : "React.js"
+    },
+    {
+        "name" : "Arsal Munir",
+        "age" : 15,
+        "company" : "Mr Solution's",
+        "language" : "Angular.js"
+    },
+    {
+        "name" : "Rafay Gigani",
+        "age" : 17,
+        "company" : "Mr Solution's",
+        "language" : "Node.js"
+    },
+    {
+        "name" : "Usaid Raza",
+        "age" : 16,
+        "company" : "Mr Solution's",
+        "language" : "React.js"
+    }
+]
